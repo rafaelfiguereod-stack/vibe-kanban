@@ -2,20 +2,19 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The latest release is always supported with security updates. Older releases
+receive fixes on a best-effort basis.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| latest  | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Please report security vulnerabilities by opening a **private** GitHub Security
+Advisory at `https://github.com/rafaelfiguereod-stack/vibe-kanban/security/advisories/new`.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Include a description of the issue, steps to reproduce, and your assessment of
+impact. You will receive an acknowledgement within 72 hours. If the report is
+accepted, a patch will be released as soon as possible and you will be credited
+in the release notes.
