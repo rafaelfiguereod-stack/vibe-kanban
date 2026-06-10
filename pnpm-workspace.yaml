@@ -29,3 +29,4 @@ overrides:
   "minimatch@9": ">=9.0.9"
   "eslint>minimatch": ">=9.0.9"
   "@git-diff-view/file>diff": ">=8.0.3"
+  shell-quote: ">=1.8.4"
